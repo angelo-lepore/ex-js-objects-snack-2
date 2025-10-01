@@ -1,4 +1,4 @@
-**_🏆 Code Question 1_**
+## 🏆 Code Question 1
 
 ```js
 const hamburger = { name: "Cheese Burger", weight: 250 };
@@ -14,7 +14,7 @@ console.log(secondBurger.name); // ?
 
 ✔︎ Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
 
-**_🏆 Code Question 2_**
+## 🏆 Code Question 2
 
 ```js
 const hamburger = {
@@ -36,7 +36,7 @@ P.S.: Ricordati che gli Array, come gli oggetti, sono dei Reference Type (Tipi d
 
 ✔︎ Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
 
-**_🏆 Code Question 3_**
+## 🏆 Code Question 3
 
 ```js
 const hamburger = {
@@ -59,7 +59,7 @@ const thirdBurger = structuredClone(hamburger);
 
 ✔︎ Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
 
-**_🏆 Code Question 4_**
+## 🏆 Code Question 4
 
 ```js
 const chef = {
@@ -85,7 +85,7 @@ const restaurant = {
 
 ✔︎ Qual è il metodo migliore per clonare l’oggetto restaurant, e perché?
 
-**_🎯 Code Question 5 (Bonus)_**
+## 🎯 Code Question 5 (Bonus)
 
 ```js
 const hamburger = {
@@ -119,7 +119,7 @@ console.log(secondBurger.maker.restaurant.name); // ?
 
 ✔︎ Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
 
-**_🎯 Code Question 6 (Bonus)_**
+## 🎯 Code Question 6 (Bonus)
 
 ```js
 const chef = {
@@ -147,7 +147,7 @@ const chef = {
 
 ✔︎ Qual è il metodo migliore per clonare l’oggetto chef, e perché?
 
-**_🎯 Snack (Bonus)_**
+## 🎯 Snack (Bonus)
 
 Crea una funzione che permette la copia profonda (deep copy) di un oggetto, che copia anche i suoi metodi (proprietà che contengono funzioni).
 
